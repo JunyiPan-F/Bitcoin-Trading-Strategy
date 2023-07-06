@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Stock Market Research</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Machine Learning Intaerpretability of a Trading Strategy in stock market</h1>
+  </header>
+
+  <nav>
+    <a href="https://thedatascientist.com/wp-content/uploads/2019/11/machine-learning-finance.jpg"><img src="https://thedatascientist.com/wp-content/uploads/2019/11/machine-learning-finance.jpg" alt="Machine learning in finance"></a>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#analysis">Analysis</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section id="home">
+    <h2>Welcome to Our Stock Market Research Website</h2>
+    <p><a href="https://sites.google.com/lehigh.edu/machinelearningresearch/home">Find more about us here: </a></p>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Insert information about your research team and expertise.</p>
+  </section>
+
+  <section id="analysis">
+    <h2>Market Analysis</h2>
+    <p>Insert your analysis and findings here.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Find our information and social media here.</p>
+
+    <div class="fellow">
+      <div class="fellow">
+        <img src="picture of Sisheng" alt="Fellow">
+        <h3>Sisheng</h3>
+        <p><a href="https://www.linkedin.com/in/sishengliang/">Sisheng Liang</a></p>
+      </div>
+
+      <div class="fellow">
+        <img src="picture of Nga Vu" alt="Fellow">
+        <h3>Nga Vu</h3>
+        <p><a href="https://www.linkedin.com/in/noravu/">Nga Vu</a></p>
+      </div>
+
+      <div class="fellow">
+        <img src="picture of Arturo" alt="Fellow">
+        <h3>Arturo</h3>
+        <p><a href="https://www.linkedin.com/in/arturoaesteban/">Arturo Esteban</a></p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Nga Vu machine learning. All rights reserved.</p>
+  </footer>
+
+  <section id="stock-data">
+    <h2>10 years stock data</h2>
+    <form id="stock-form">
+      <label for="stock-symbol">Stock Symbol:</label>
+      <input type="text" id="stock-symbol" name="stock-symbol" placeholder="Enter stock symbol">
+
+      <label for="end-date">End Date:</label>
+      <input type="date" id="end-date" name="end-date">
+
+      <button type="submit">Get Historical Data</button>
+    </form>
+
+    <div id="date-period">
+      <!-- The selected period will be displayed here -->
+    </div>
+
+    <div id="stock-chart">
+      <!-- The fetched stock data will be displayed here -->
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
