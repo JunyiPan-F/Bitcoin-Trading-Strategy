@@ -11,8 +11,8 @@
 
 # Features
 The website will offer the following features:
-          - Upload CSV File: Users can upload CSV files containing historical stock data.
-          - Machine Learning Analysis: The uploaded data will be analyzed using machine learning algorithms to generate trading decisions.
-          - Strategy Interpretation: The website will interpret the trading strategy employed by the machine learning model.
-          - Factor Analysis: Users will be able to explore the factors that contribute the most to the decision-making process.
-          - Visualization: The website will provide visual representations of the trading strategy and the influential factors to enhance user understanding.
+- Upload CSV File: Users can upload CSV files containing historical stock data.
+- Machine Learning Analysis: The uploaded data will be analyzed using machine learning algorithms to generate trading decisions.
+- Strategy Interpretation: The website will interpret the trading strategy employed by the machine learning model.
+- Factor Analysis: Users will be able to explore the factors that contribute the most to the decision-making process.
+- Visualization: The website will provide visual representations of the trading strategy and the influential factors to enhance user understanding.
