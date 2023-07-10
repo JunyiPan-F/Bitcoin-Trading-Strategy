@@ -16,3 +16,9 @@ The website will offer the following features:
 - Strategy Interpretation: The website will interpret the trading strategy employed by the machine learning model.
 - Factor Analysis: Users will be able to explore the factors that contribute the most to the decision-making process.
 - Visualization: The website will provide visual representations of the trading strategy and the influential factors to enhance user understanding.
+
+# Development 
+- flask-server
+    - the env is set to development
+    - run the app with "python3 serer.py" command on cli
+- react client
