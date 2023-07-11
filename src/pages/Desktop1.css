@@ -1,0 +1,461 @@
+.bg-icon,
+.image-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 808.51px;
+}
+.image-icon {
+  top: 80px;
+  left: 870px;
+  width: 426.25px;
+  height: 673.2px;
+  object-fit: cover;
+}
+.lets-get-started,
+.watch-this-quick {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.lets-get-started {
+  top: 0;
+  left: 9.93px;
+  letter-spacing: 0.3px;
+  line-height: 100%;
+  width: 164.71px;
+  height: 23.78px;
+}
+.watch-this-quick {
+  top: 50.66px;
+  left: 0;
+  font-size: var(--font-size-sm);
+  width: 254.89px;
+  height: 36.85px;
+}
+.icon,
+.text2,
+.video {
+  position: absolute;
+  top: 0;
+  left: 36.49px;
+  width: 254.89px;
+  height: 87.52px;
+}
+.icon,
+.video {
+  top: 2.48px;
+  left: -29px;
+  width: 89.29px;
+  height: 103.17px;
+}
+.video {
+  top: 742px;
+  left: 17px;
+  width: 291.38px;
+  height: 87.52px;
+}
+.interpretability-of-a,
+.this-website-aims {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.this-website-aims {
+  top: 395px;
+  line-height: 32px;
+  color: var(--color-lavender);
+  width: 616.52px;
+  height: 76.78px;
+}
+.interpretability-of-a {
+  top: 0;
+  font-size: var(--font-size-53xl);
+  font-weight: 500;
+  font-family: var(--font-jura);
+  background: linear-gradient(180deg, #e6b9ff, #9e89ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 576.96px;
+  height: 167.34px;
+}
+.separator,
+.text1 {
+  position: absolute;
+  top: 263px;
+  left: 185px;
+  width: 616.52px;
+  height: 829.52px;
+}
+.separator {
+  top: 44.56px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1386.55px;
+  height: 1px;
+}
+.menu,
+.resources,
+.tutorial {
+  position: absolute;
+  top: 0;
+  left: 660.13px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 81.47px;
+  height: 22.43px;
+}
+.menu,
+.resources {
+  top: 3.66px;
+  left: 0;
+  width: 126.25px;
+  height: 22.38px;
+}
+.resources {
+  top: 0.17px;
+  left: 797.69px;
+  width: 103.59px;
+}
+.nav-items,
+.top-menu {
+  position: absolute;
+  top: 0;
+  left: 130.55px;
+  width: 901.28px;
+  height: 26.04px;
+}
+.top-menu {
+  top: 35px;
+  left: 54.45px;
+  width: 1385.55px;
+  height: 45.06px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+}
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1092.52px;
+}
+.blank-line {
+  margin: 0;
+}
+.text3 {
+  position: absolute;
+  top: 204px;
+  left: 29px;
+  font-weight: 600;
+}
+.image-child {
+  position: absolute;
+  top: 22.5px;
+  left: -0.5px;
+  width: 197px;
+  height: 247px;
+}
+.eth {
+  position: absolute;
+  top: 3px;
+  left: 25px;
+  font-weight: 600;
+}
+.ethereum-icon-purple-2-1,
+.image-4,
+.price,
+.price-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15px;
+  height: 24px;
+}
+.image-4,
+.price,
+.price-wrapper {
+  width: 86px;
+}
+.image-4,
+.price-wrapper {
+  top: 231px;
+  left: 29px;
+}
+.image-4 {
+  top: 0;
+  background: linear-gradient(135.3deg, #1524ac, #d3299c);
+  width: 193px;
+  height: 194px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 19px;
+  left: 65px;
+  border-radius: 10.12px;
+  width: 122px;
+  height: 157px;
+  object-fit: cover;
+}
+.image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 222px;
+  height: 269px;
+}
+.lost-in-space {
+  position: absolute;
+  top: 207px;
+  left: 30px;
+  font-weight: 600;
+}
+.image-item {
+  position: absolute;
+  top: 23.5px;
+  left: -0.5px;
+  width: 197px;
+  height: 247px;
+}
+.merlin-184196631-939fb22d-b909-icon {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  width: 192px;
+  height: 195px;
+  object-fit: cover;
+}
+.image1,
+.price-container,
+.price1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 87px;
+  height: 24px;
+}
+.image1,
+.price-container {
+  top: 232px;
+  left: 30px;
+}
+.image1 {
+  top: 58px;
+  left: 304px;
+  width: 222px;
+  height: 270px;
+}
+.god-of-war {
+  position: absolute;
+  top: 206px;
+  left: 28px;
+  font-weight: 600;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 29px;
+  background: linear-gradient(135.3deg, #372a58, #303438);
+  width: 193px;
+  height: 194px;
+}
+.avatar-1-icon {
+  position: absolute;
+  top: 15px;
+  left: 49px;
+  width: 153px;
+  height: 179px;
+  object-fit: cover;
+}
+.image2,
+.price-frame,
+.price2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 84px;
+  height: 24px;
+}
+.image2,
+.price-frame {
+  top: 231px;
+  left: 29px;
+}
+.image2 {
+  top: 305px;
+  left: 43px;
+  width: 222px;
+  height: 269px;
+}
+.the-watchers {
+  position: absolute;
+  top: 206px;
+  left: 29px;
+  font-weight: 600;
+}
+.image-child1 {
+  position: absolute;
+  top: 0;
+  left: 29px;
+  width: 193px;
+  height: 194px;
+  object-fit: cover;
+}
+.image3,
+.images,
+.images1 {
+  position: absolute;
+  top: 386px;
+  left: 318px;
+  width: 222px;
+  height: 269px;
+}
+.images,
+.images1 {
+  top: 1172px;
+  left: 125px;
+  width: 540px;
+  height: 655px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+}
+.images1 {
+  top: 1807px;
+  left: 120px;
+}
+.button-log-in-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 16.07%;
+  right: 0;
+  bottom: -16.07%;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-100);
+  backdrop-filter: blur(10px);
+}
+.upload-your-cvs {
+  position: absolute;
+  height: 25.58%;
+  width: 61.03%;
+  top: 50%;
+  left: 19.7%;
+  letter-spacing: 0.3px;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-log-in {
+  position: absolute;
+  top: 978px;
+  left: 870px;
+  width: 269px;
+  height: 112px;
+  cursor: pointer;
+  text-align: center;
+}
+.button-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-100);
+  backdrop-filter: blur(10px);
+}
+.give-us-feedback {
+  position: absolute;
+  height: 54.76%;
+  width: 94.41%;
+  top: 21.43%;
+  left: 2.79%;
+  font-weight: 500;
+  display: inline-block;
+}
+.button1,
+.we-are-lehigh {
+  position: absolute;
+  left: 0.19%;
+}
+.button1 {
+  height: 14.63%;
+  width: 34.23%;
+  top: 85.37%;
+  right: 65.58%;
+  bottom: 0;
+  text-align: center;
+}
+.we-are-lehigh {
+  height: 33.45%;
+  width: 99.81%;
+  top: 37.28%;
+  font-size: var(--font-size-xl);
+  line-height: 32px;
+  color: var(--color-lavender);
+  display: flex;
+  align-items: center;
+  -webkit-text-stroke: 1px #000;
+}
+.ellipse {
+  position: absolute;
+  height: 100%;
+  width: 34.27%;
+  top: 0;
+  right: 65.73%;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background: linear-gradient(180deg, #6147f8, #bc5eff);
+  box-shadow: 0 14px 29px #08013f;
+}
+.about-us {
+  height: 56.47%;
+  width: 83.06%;
+  top: 22.35%;
+  left: 16.94%;
+  display: inline-block;
+}
+.about-us,
+.text4,
+.title {
+  position: absolute;
+}
+.title {
+  height: 29.62%;
+  width: 47.42%;
+  top: 0;
+  right: 52.58%;
+  bottom: 70.38%;
+  left: 0;
+  font-size: 40px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.text4 {
+  height: 10.89%;
+  width: 36.32%;
+  top: 50.19%;
+  right: 10.35%;
+  bottom: 38.92%;
+  left: 53.33%;
+  font-size: 15px;
+  color: #fffaf9;
+}
+.desktop-1 {
+  position: relative;
+  background-color: #030a45;
+  width: 100%;
+  height: 2607px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
