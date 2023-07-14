@@ -1,0 +1,12 @@
+{
+  "name": "interpretability-of-stock-trading-strategy-1",
+  "version": "1.0.0",
+  "description": "- This website aims to provide users with a tool to upload CSV files containing stock data and analyze the machine learning-based decision-making process for buying and selling stocks. The primary objective is to interpret the trading strategy employed by the machine learning model and identify the key factors that contribute to its decision-making process.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
